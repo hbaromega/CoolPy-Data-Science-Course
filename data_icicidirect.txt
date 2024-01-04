@@ -1,0 +1,32 @@
+Equity      	Size      AvgCost      CMP       Sector
+#-----      	------    ------     -------     ------ 
+UNOMINDA        6         272.85     596.35     Auto
+
+HDFCBANK        2         1493.15    1524.85    Banking
+
+ICICIBANK       1   	    531.29     951.20     Banking
+
+KOTAKBANK      	1        1655.10     1756.10  Banking
+
+SBIN      	   13         368.62     591.65    Banking
+
+YESBANK      	  5         73.20      17.05      Banking
+
+ITC         	  40        234.19     444.40     FMCG         
+
+AXIGOL      	  100       37.06       49.30     GoldETF
+
+GOLDEX      	  20        38.19       48.93     GoldETF
+
+SAIL        	   3        36.61       88.80     Metals/Minerals
+
+SBINIFTY      	 4        151.12      205.22    ETF
+
+
+SUNPHARMA      	1         404.08      1126.50   Pharma&Healthcare
+
+IDEA      	   100        10.03       11.05     Telecom
+
+# Last updated: October 10, 2023
+
+
